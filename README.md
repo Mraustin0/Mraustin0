@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-I'm Phakawat Sukmanee But you can call me Austin , a Computer Science student at Khon Kaen University, currently in my 2nd year.<br><br>I'm passionate about web development and love turning ideas into clean, functional interfaces.<br><br>Still learning, always building.<br><br>My favorite tool and tech stack Frontend React, Next.js, Tailwind CSS Languages JavaScript, a bit of TypeScript, Java, HTML/CSS Backend Laravel (PHP) Database MySQL
+Hi, I'm Phakawat Sukmanee—but you can call me Austin. I'm currently a 2nd-year Computer Science student at Khon Kaen University with a strong passion for full-stack web development.
+
+I enjoy working on both the frontend and backend. I love the entire process of bringing an idea to life, from crafting clean, user-friendly interfaces to building the solid server-side logic behind them. Still learning, always building.
 
 
 # 💻 Tech Stack:
